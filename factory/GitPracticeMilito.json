@@ -1,0 +1,9 @@
+{
+	"name": "GitPracticeMilito",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4fb5a9b9-f12b-40a4-a6a2-dfd6595a7605",
+		"tenantId": "c13d88bd-8444-4f5f-a5b6-b6a5303eebd2"
+	}
+}
